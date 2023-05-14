@@ -11,7 +11,7 @@
 |  matplotlib       |          3.2.2           | 
 
 | File Dependencies | download link| 
-|------|------|------|
+|------|------|
 |  211010_Vfaba_split_pseudomolecules_hedin_v1pluschlro_clean_unanchored_contigs.fasta.gz    |  https://projects.au.dk/fileadmin/projects/fabagenome/211010_Vfaba_split_pseudomolecules_hedin_v1pluschlro_clean_unanchored_contigs.fasta.gz            |   
 |  HEDIN_TMP5.check.renamed.phase.complete_CDS.fa           |         https://projects.au.dk/fileadmin/ingen_mappe_valgt/HEDIN_TMP5.check.renamed.phase.complete_CDS.fa  
 |  HEDIN_TMP5.check.renamed.phase.complete.gff3           |        https://projects.au.dk/fileadmin/ingen_mappe_valgt/HEDIN_TMP5.check.renamed.phase.complete.gff3    
